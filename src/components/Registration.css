@@ -1,0 +1,172 @@
+.registration{
+    margin-top: 10px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 15px -5px black;
+  
+  }
+
+  .required-field::after {
+    content: "*";
+    color: red;
+    margin-left: 0;
+  }
+
+  .submit_button{
+    margin-left: 400px;
+  }
+  .signinbutton{
+    background: linear-gradient(90deg,#0fb4e6,#3a03d3);
+    border-radius: 40px !important;
+    padding: 12px 36px;
+    letter-spacing: 3px;
+    font-size: 18px;
+    margin: 10px;
+    text-transform: uppercase;
+    left: 800px;
+  }
+  /* .registationpage{
+    background: linear-gradient(90deg,#0fb4e6,#3a03d3);
+    border-radius: 40px !important;
+    padding: 12px 36px;
+    letter-spacing: 3px;
+    font-size: 18px;
+    margin: 10px;
+    text-transform: uppercase;
+    position: relative;
+    color: white;
+  } */
+ /* section  .spinner{
+   position: relative;
+   width: 120px;
+   height: 120px;
+  }
+
+  section .spinner span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: rotate(calc(18deg * var(--i)));
+  }
+
+  section .spinner span::before{
+
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: green;
+    box-shadow: 0 0 10px green,
+                0 0 20px green,
+                0 0 40px green,
+                0 0 60px green,
+                0 0 80px green,
+                0 0 100px green;
+                animation: animate  2s linear infinite;
+                animation-delay: calc(0.1s * var(--i));
+
+  }
+
+  @keyframes  animate {
+    0%
+    {
+transform: scale(1);
+    }
+    80%,100%
+    {
+transform: scale(0);
+    }
+  }
+
+  section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #042104;
+    animation: animateBg 10s linear infinite;
+  }
+
+  @keyframes animateBg {
+    0%
+    {
+filter: hue-rotate(0deg);
+    }
+
+    100%
+    {
+filter: hue-rotate(360deg);
+
+    }
+
+
+  } */
+
+  .spinner{
+    margin-top: 200px;
+    margin-left: 700px;
+  }
+
+
+  /* @media(max-width:768px){
+    .registration{
+      display: block;
+    }
+    
+  } */
+
+  @media (max-width: 768px) {
+    .registration{
+      flex-direction: column;
+    }
+  }
+
+  .primarycrops{
+    display: flex;
+  }
+  .primary{
+    margin-left: 150px;
+  }
+
+  
+  .accounts{
+    display: flex;
+  }
+  .accountname{
+    margin-left: 100px;
+  }
+
+  .confirm_email_message{
+    margin-top: 10px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 15px -5px black
+  }
+  .passwordstrength{
+    margin-top: 5px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 2px;
+  }
+
+  .accountAddbutton{
+    margin-top: 10px;
+  }
+  .AccountName{
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .accountdiv{
+    margin-top: 10px;
+  }
+/* .dob_formgroup{
+ 
+  
+} */

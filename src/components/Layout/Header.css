@@ -1,0 +1,38 @@
+
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+/* .header{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(221, 215, 250);
+} */
+
+.header__leftnav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    margin-right: 300px;
+}
+
+.header__rightnav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 20px;
+}
+.nav_icons{
+    margin-left: 10px;
+}
+/* .header_logo{
+    margin-right: 20px}
+
+    a{
+        margin: 10px;
+    } */

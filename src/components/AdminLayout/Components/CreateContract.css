@@ -1,0 +1,45 @@
+.createContract_sales{
+    border-radius: 100px;
+    font-size: 15px;
+
+}
+
+.createContract_purchase{
+    border-radius: 100px;
+  
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.createcontract_header_heading{
+    display: flex;
+}
+
+.steppercolor{
+    color: green;
+}
+
+.createcontract_header_stepper{
+    margin-left: 300px;
+    padding-top: 0;
+}
+.createcontract_bottons{
+    margin-top: 15px;
+}
+.createcontract_form{
+    height: 900px;
+     width: 1050px;
+     margin-left: 30px;
+     padding: 1rem;
+     border-radius: 20px;
+     margin-top: 16px;
+     margin-left: 140px;
+     margin-bottom: 20px;
+     box-shadow: 0 0 8px -4px rgba(201, 23, 23, 0.5);
+
+}
+
+.createcontract_text{
+    margin-left: 120px;
+    margin-top: 15px;
+}

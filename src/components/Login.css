@@ -1,0 +1,30 @@
+.login{
+        margin-top: 10px;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0px 0px 15px -5px black;
+}
+.resetpassword{
+    margin-top: 10px;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0px 0px 15px -5px black;
+}
+
+.login_button{
+    background: linear-gradient(90deg,#0fb4e6,#3a03d3);
+    border-radius: 40px !important;
+    padding: 12px 36px;
+    letter-spacing: 3px;
+    font-size: 18px;
+    margin: 10px;
+    text-transform: uppercase;
+    left: 800px;
+}
+
+.spinner{
+    margin-top: 200px;
+    margin-left: 700px;
+  }
